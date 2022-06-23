@@ -1,0 +1,27 @@
+Data Structure and Algorithm
+@17th June 2021 3pm-5pm
+=> C++ basically used in synopsys
+
+DATA STRUCTURE ALGORITHM
+Purpose =>To solve problems better than human
+
+=> DS is an abstract concept.
+=> Space and Time , CPU power are main things have to consider when solve problems.
+
+DS
+|-Primitive
+	=> Integer,Float,Charector
+|-Non Primitive
+	|-Linear=> Array , Stack, Queue, LinkedList
+	|-Non Linear=> Graphs, Trees
+	|-Files
+
+ARRAY
+-Sequential container.
+-Random Access
+-Constant time
+-linear space
+
+heap -> dynamic memory (Allocate in runtime)
+stack -> static memory (Allocate in compiletime)
+
