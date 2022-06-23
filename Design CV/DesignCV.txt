@@ -44,6 +44,8 @@ type of cv formats
 	resume format - students can use
 	executive format
 Winning cv format
+About common thing
+
 1.Personal details
 	Name address, professional email, linkedin, professional pic(with tie, ined shirt), mobile no
 2.Professional profile
@@ -51,7 +53,31 @@ Winning cv format
 	in four to five lines
 3.core skills
 	What new skills are you bringing to the new company, thease should be your expert areas.
+	what are the skills are in demand in the market
 4.Achievements
 	List down all achievements done in your career or education
 5.Soft skills
-	List down the soft skill relevent to the job
+	List down the soft skill relevent to the job(time management , presentation skill)
+
+mindset about hiring manager
+
+6. Prefessional Qualification
+	degree, diplomas, accl , ceema , cim
+7.academic qualification 
+	(o/l , a/l)
+8.memberships
+	membership you have obtained (documented)
+	extra curricular 
+	thease gives extra marks
+9.Languages
+	Show your language efficiency
+10.Reference
+	list down 2 best references
+
+Tips
+1 page resumes for executive levels
+2 page for managerial/senior managerial
+3 pages fot c suites
+cusomized cover letter
+2020 format linkedin profile
+carry a country specific international format
