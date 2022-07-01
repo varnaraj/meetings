@@ -25,3 +25,4 @@ ARRAY
 heap -> dynamic memory (Allocate in runtime)
 stack -> static memory (Allocate in compiletime)
 
+I have to do more 
